@@ -1,0 +1,116 @@
+{
+   "Dragon Fodder": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "70f8a1de-cd4c-4afa-bf03-0245d375d42e",
+            "component": "token",
+            "name": "Goblin",
+            "type_line": "Token Creature \u2014 Goblin",
+            "uri": "https://api.scryfall.com/cards/70f8a1de-cd4c-4afa-bf03-0245d375d42e"
+         },
+         {
+            "object": "related_card",
+            "id": "f9abe517-f601-4784-8d62-2350bd755146",
+            "component": "combo_piece",
+            "name": "Dragon Fodder",
+            "type_line": "Sorcery",
+            "uri": "https://api.scryfall.com/cards/f9abe517-f601-4784-8d62-2350bd755146"
+         }
+      ],
+      "cmc": 2.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{R}",
+      "name": "Dragon Fodder",
+      "oracle_text": "Create two 1/1 red Goblin creature tokens.",
+      "type_line": "Sorcery"
+   },
+   "Foundry Street Denizen": {
+      "cmc": 1.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{R}",
+      "name": "Foundry Street Denizen",
+      "oracle_text": "Whenever another red creature you control enters, this creature gets +1/+0 until end of turn.",
+      "power": "1",
+      "toughness": "1",
+      "type_line": "Creature \u2014 Goblin Warrior"
+   },
+   "Topan Freeblade": {
+      "cmc": 2.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [
+         "Renown",
+         "Vigilance"
+      ],
+      "mana_cost": "{1}{W}",
+      "name": "Topan Freeblade",
+      "oracle_text": "Vigilance (Attacking doesn't cause this creature to tap.)\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+      "power": "2",
+      "toughness": "2",
+      "type_line": "Creature \u2014 Human Soldier"
+   },
+   "Murder": {
+      "cmc": 3.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{B}{B}",
+      "name": "Murder",
+      "oracle_text": "Destroy target creature.",
+      "type_line": "Instant"
+   },
+   "Divination": {
+      "cmc": 3.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{U}",
+      "name": "Divination",
+      "oracle_text": "Draw two cards.",
+      "type_line": "Sorcery"
+   },
+   "Goblin": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "40f80bd8-7ce2-449d-b06c-d3e353b54daa",
+            "component": "combo_piece",
+            "name": "_____ Goblin",
+            "type_line": "Creature \u2014 Goblin Guest",
+            "uri": "https://api.scryfall.com/cards/40f80bd8-7ce2-449d-b06c-d3e353b54daa"
+         },
+         {
+            "object": "related_card",
+            "id": "fd1442b4-da59-4042-835f-143c8dcaa73b",
+            "component": "combo_piece",
+            "name": "\"Name Sticker\" Goblin",
+            "type_line": "Creature \u2014 Goblin Guest",
+            "uri": "https://api.scryfall.com/cards/fd1442b4-da59-4042-835f-143c8dcaa73b"
+         }
+      ],
+      "cmc": 3.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{R}",
+      "name": "_____ Goblin",
+      "oracle_text": "When this creature enters, you may put a name sticker on it. Add {R} for each unique vowel on that sticker. (The vowels are A, E, I, O, U, and Y.)",
+      "power": "2",
+      "produced_mana": [
+         "R"
+      ],
+      "toughness": "2",
+      "type_line": "Creature \u2014 Goblin Guest"
+   }
+}

@@ -1,0 +1,518 @@
+{
+   "Dragon Fodder": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "70f8a1de-cd4c-4afa-bf03-0245d375d42e",
+            "component": "token",
+            "name": "Goblin",
+            "type_line": "Token Creature \u2014 Goblin",
+            "uri": "https://api.scryfall.com/cards/70f8a1de-cd4c-4afa-bf03-0245d375d42e"
+         },
+         {
+            "object": "related_card",
+            "id": "f9abe517-f601-4784-8d62-2350bd755146",
+            "component": "combo_piece",
+            "name": "Dragon Fodder",
+            "type_line": "Sorcery",
+            "uri": "https://api.scryfall.com/cards/f9abe517-f601-4784-8d62-2350bd755146"
+         }
+      ],
+      "cmc": 2.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{R}",
+      "name": "Dragon Fodder",
+      "oracle_text": "Create two 1/1 red Goblin creature tokens.",
+      "type_line": "Sorcery"
+   },
+   "Foundry Street Denizen": {
+      "cmc": 1.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{R}",
+      "name": "Foundry Street Denizen",
+      "oracle_text": "Whenever another red creature you control enters, this creature gets +1/+0 until end of turn.",
+      "power": "1",
+      "toughness": "1",
+      "type_line": "Creature \u2014 Goblin Warrior"
+   },
+   "Topan Freeblade": {
+      "cmc": 2.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [
+         "Renown",
+         "Vigilance"
+      ],
+      "mana_cost": "{1}{W}",
+      "name": "Topan Freeblade",
+      "oracle_text": "Vigilance (Attacking doesn't cause this creature to tap.)\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+      "power": "2",
+      "toughness": "2",
+      "type_line": "Creature \u2014 Human Soldier"
+   },
+   "Murder": {
+      "cmc": 3.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{B}{B}",
+      "name": "Murder",
+      "oracle_text": "Destroy target creature.",
+      "type_line": "Instant"
+   },
+   "Divination": {
+      "cmc": 3.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{U}",
+      "name": "Divination",
+      "oracle_text": "Draw two cards.",
+      "type_line": "Sorcery"
+   },
+   "Goblin": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "40f80bd8-7ce2-449d-b06c-d3e353b54daa",
+            "component": "combo_piece",
+            "name": "_____ Goblin",
+            "type_line": "Creature \u2014 Goblin Guest",
+            "uri": "https://api.scryfall.com/cards/40f80bd8-7ce2-449d-b06c-d3e353b54daa"
+         },
+         {
+            "object": "related_card",
+            "id": "fd1442b4-da59-4042-835f-143c8dcaa73b",
+            "component": "combo_piece",
+            "name": "\"Name Sticker\" Goblin",
+            "type_line": "Creature \u2014 Goblin Guest",
+            "uri": "https://api.scryfall.com/cards/fd1442b4-da59-4042-835f-143c8dcaa73b"
+         }
+      ],
+      "cmc": 3.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{R}",
+      "name": "_____ Goblin",
+      "oracle_text": "When this creature enters, you may put a name sticker on it. Add {R} for each unique vowel on that sticker. (The vowels are A, E, I, O, U, and Y.)",
+      "power": "2",
+      "produced_mana": [
+         "R"
+      ],
+      "toughness": "2",
+      "type_line": "Creature \u2014 Goblin Guest"
+   },
+   "Panglacial Wurm": {
+      "cmc": 7.0,
+      "colors": [
+         "G"
+      ],
+      "keywords": [
+         "Trample"
+      ],
+      "mana_cost": "{5}{G}{G}",
+      "name": "Panglacial Wurm",
+      "oracle_text": "Trample\nWhile you're searching your library, you may cast this card from your library.",
+      "power": "9",
+      "toughness": "5",
+      "type_line": "Creature \u2014 Wurm"
+   },
+   "Gifts Ungiven": {
+      "cmc": 4.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{3}{U}",
+      "name": "Gifts Ungiven",
+      "oracle_text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.",
+      "type_line": "Instant"
+   },
+   "Enduring Ideal": {
+      "cmc": 7.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [
+         "Epic"
+      ],
+      "mana_cost": "{5}{W}{W}",
+      "name": "Enduring Ideal",
+      "oracle_text": "Search your library for an enchantment card, put it onto the battlefield, then shuffle.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",
+      "type_line": "Sorcery"
+   },
+   "Through the Breach": {
+      "cmc": 5.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [
+         "Splice"
+      ],
+      "mana_cost": "{4}{R}",
+      "name": "Through the Breach",
+      "oracle_text": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+      "type_line": "Instant \u2014 Arcane"
+   },
+   "Goryo's Vengeance": {
+      "cmc": 2.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [
+         "Splice"
+      ],
+      "mana_cost": "{1}{B}",
+      "name": "Goryo's Vengeance",
+      "oracle_text": "Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.\nSplice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+      "type_line": "Instant \u2014 Arcane"
+   },
+   "Griselbrand": {
+      "cmc": 8.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [
+         "Flying",
+         "Lifelink"
+      ],
+      "mana_cost": "{4}{B}{B}{B}{B}",
+      "name": "Griselbrand",
+      "oracle_text": "Flying, lifelink\nPay 7 life: Draw seven cards.",
+      "power": "7",
+      "toughness": "7",
+      "type_line": "Legendary Creature \u2014 Demon"
+   },
+   "Emrakul, the Aeons Torn": {
+      "cmc": 15.0,
+      "colors": [],
+      "keywords": [
+         "Flying",
+         "Annihilator",
+         "Protection"
+      ],
+      "mana_cost": "{15}",
+      "name": "Emrakul, the Aeons Torn",
+      "oracle_text": "This spell can't be countered.\nWhen you cast this spell, take an extra turn after this one.\nFlying, protection from spells that are one or more colors, annihilator 6\nWhen Emrakul is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+      "power": "15",
+      "toughness": "15",
+      "type_line": "Legendary Creature \u2014 Eldrazi"
+   },
+   "Ad Nauseam": {
+      "cmc": 5.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{3}{B}{B}",
+      "name": "Ad Nauseam",
+      "oracle_text": "Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times.",
+      "type_line": "Instant"
+   },
+   "Phyrexian Unlife": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "470618f6-f67f-44c6-a086-285632508915",
+            "component": "combo_piece",
+            "name": "Poison Counter",
+            "type_line": "Card",
+            "uri": "https://api.scryfall.com/cards/470618f6-f67f-44c6-a086-285632508915"
+         },
+         {
+            "object": "related_card",
+            "id": "b4a1e16a-39f0-47ab-aba8-73e82ba9ab18",
+            "component": "combo_piece",
+            "name": "Phyrexian Unlife",
+            "type_line": "Enchantment",
+            "uri": "https://api.scryfall.com/cards/b4a1e16a-39f0-47ab-aba8-73e82ba9ab18"
+         }
+      ],
+      "cmc": 3.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{W}",
+      "name": "Phyrexian Unlife",
+      "oracle_text": "You don't lose the game for having 0 or less life.\nAs long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)",
+      "type_line": "Enchantment"
+   },
+   "Spoils of the Vault": {
+      "cmc": 1.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{B}",
+      "name": "Spoils of the Vault",
+      "oracle_text": "Choose a card name. Reveal cards from the top of your library until you reveal a card with that name, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.",
+      "type_line": "Instant"
+   },
+   "Angel's Grace": {
+      "cmc": 1.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [
+         "Split second"
+      ],
+      "mana_cost": "{W}",
+      "name": "Angel's Grace",
+      "oracle_text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nYou can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.",
+      "type_line": "Instant"
+   },
+   "Summoner's Pact": {
+      "cmc": 0.0,
+      "colors": [
+         "G"
+      ],
+      "keywords": [],
+      "mana_cost": "{0}",
+      "name": "Summoner's Pact",
+      "oracle_text": "Search your library for a green creature card, reveal it, put it into your hand, then shuffle.\nAt the beginning of your next upkeep, pay {2}{G}{G}. If you don't, you lose the game.",
+      "type_line": "Instant"
+   },
+   "Pact of Negation": {
+      "cmc": 0.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{0}",
+      "name": "Pact of Negation",
+      "oracle_text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.",
+      "type_line": "Instant"
+   },
+   "Balustrade Spy": {
+      "cmc": 4.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [
+         "Flying"
+      ],
+      "mana_cost": "{3}{B}",
+      "name": "Balustrade Spy",
+      "oracle_text": "Flying\nWhen this creature enters, target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+      "power": "2",
+      "toughness": "3",
+      "type_line": "Creature \u2014 Vampire Rogue"
+   },
+   "Undercity Informer": {
+      "cmc": 3.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{B}",
+      "name": "Undercity Informer",
+      "oracle_text": "{1}, Sacrifice a creature: Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+      "power": "2",
+      "toughness": "3",
+      "type_line": "Creature \u2014 Human Rogue"
+   },
+   "Narcomoeba": {
+      "cmc": 2.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [
+         "Flying"
+      ],
+      "mana_cost": "{1}{U}",
+      "name": "Narcomoeba",
+      "oracle_text": "Flying\nWhen this card is put into your graveyard from your library, you may put it onto the battlefield.",
+      "power": "1",
+      "toughness": "1",
+      "type_line": "Creature \u2014 Illusion"
+   },
+   "Creeping Chill": {
+      "cmc": 4.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [],
+      "mana_cost": "{3}{B}",
+      "name": "Creeping Chill",
+      "oracle_text": "Creeping Chill deals 3 damage to each opponent and you gain 3 life.\nWhen Creeping Chill is put into your graveyard from your library, you may exile it. If you do, Creeping Chill deals 3 damage to each opponent and you gain 3 life.",
+      "type_line": "Sorcery"
+   },
+   "Thassa's Oracle": {
+      "cmc": 2.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{U}{U}",
+      "name": "Thassa's Oracle",
+      "oracle_text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "power": "1",
+      "toughness": "3",
+      "type_line": "Creature \u2014 Merfolk Wizard"
+   },
+   "Crashing Footfalls": {
+      "all_parts": [
+         {
+            "object": "related_card",
+            "id": "a8cca2a2-69e3-4136-936c-7a2774c19351",
+            "component": "combo_piece",
+            "name": "Crashing Footfalls",
+            "type_line": "Sorcery",
+            "uri": "https://api.scryfall.com/cards/a8cca2a2-69e3-4136-936c-7a2774c19351"
+         },
+         {
+            "object": "related_card",
+            "id": "007c828b-5854-41ac-9c18-f9d41c69ed33",
+            "component": "token",
+            "name": "Rhino",
+            "type_line": "Token Creature \u2014 Rhino",
+            "uri": "https://api.scryfall.com/cards/007c828b-5854-41ac-9c18-f9d41c69ed33"
+         }
+      ],
+      "cmc": 0.0,
+      "colors": [
+         "G"
+      ],
+      "keywords": [
+         "Suspend"
+      ],
+      "mana_cost": "",
+      "name": "Crashing Footfalls",
+      "oracle_text": "Suspend 4\u2014{G} (Rather than cast this card from your hand, pay {G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\nCreate two 4/4 green Rhino creature tokens with trample.",
+      "type_line": "Sorcery"
+   },
+   "Living End": {
+      "cmc": 0.0,
+      "colors": [
+         "B"
+      ],
+      "keywords": [
+         "Suspend"
+      ],
+      "mana_cost": "",
+      "name": "Living End",
+      "oracle_text": "Suspend 3\u2014{2}{B}{B}\nEach player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
+      "type_line": "Sorcery"
+   },
+   "As Foretold": {
+      "cmc": 3.0,
+      "colors": [
+         "U"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{U}",
+      "name": "As Foretold",
+      "oracle_text": "At the beginning of your upkeep, put a time counter on this enchantment.\nOnce each turn, you may pay {0} rather than pay the mana cost for a spell you cast with mana value X or less, where X is the number of time counters on this enchantment.",
+      "type_line": "Enchantment"
+   },
+   "Restore Balance": {
+      "cmc": 0.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [
+         "Suspend"
+      ],
+      "mana_cost": "",
+      "name": "Restore Balance",
+      "oracle_text": "Suspend 6\u2014{W}\nEach player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.",
+      "type_line": "Sorcery"
+   },
+   "Chalice of the Void": {
+      "cmc": 0.0,
+      "colors": [],
+      "keywords": [],
+      "mana_cost": "{X}{X}",
+      "name": "Chalice of the Void",
+      "oracle_text": "This artifact enters with X charge counters on it.\nWhenever a player casts a spell with mana value equal to the number of charge counters on this artifact, counter that spell.",
+      "type_line": "Artifact"
+   },
+   "Trinisphere": {
+      "cmc": 3.0,
+      "colors": [],
+      "keywords": [],
+      "mana_cost": "{3}",
+      "name": "Trinisphere",
+      "oracle_text": "As long as this artifact is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)",
+      "type_line": "Artifact"
+   },
+   "Blood Moon": {
+      "cmc": 3.0,
+      "colors": [
+         "R"
+      ],
+      "keywords": [],
+      "mana_cost": "{2}{R}",
+      "name": "Blood Moon",
+      "oracle_text": "Nonbasic lands are Mountains.",
+      "type_line": "Enchantment"
+   },
+   "Devoted Druid": {
+      "cmc": 2.0,
+      "colors": [
+         "G"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{G}",
+      "name": "Devoted Druid",
+      "oracle_text": "{T}: Add {G}.\nPut a -1/-1 counter on this creature: Untap this creature.",
+      "power": "0",
+      "produced_mana": [
+         "G"
+      ],
+      "toughness": "2",
+      "type_line": "Creature \u2014 Elf Druid"
+   },
+   "Vizier of Remedies": {
+      "cmc": 2.0,
+      "colors": [
+         "W"
+      ],
+      "keywords": [],
+      "mana_cost": "{1}{W}",
+      "name": "Vizier of Remedies",
+      "oracle_text": "If one or more -1/-1 counters would be put on a creature you control, that many -1/-1 counters minus one are put on it instead.",
+      "power": "2",
+      "toughness": "1",
+      "type_line": "Creature \u2014 Human Cleric"
+   },
+   "Walking Ballista": {
+      "cmc": 0.0,
+      "colors": [],
+      "keywords": [],
+      "mana_cost": "{X}{X}",
+      "name": "Walking Ballista",
+      "oracle_text": "This creature enters with X +1/+1 counters on it.\n{4}: Put a +1/+1 counter on this creature.\nRemove a +1/+1 counter from this creature: It deals 1 damage to any target.",
+      "power": "0",
+      "toughness": "0",
+      "type_line": "Artifact Creature \u2014 Construct"
+   },
+   "Dryad Arbor": {
+      "cmc": 0.0,
+      "colors": [
+         "G"
+      ],
+      "keywords": [],
+      "mana_cost": "",
+      "name": "Dryad Arbor",
+      "oracle_text": "(This land isn't a spell, it's affected by summoning sickness, and it has \"{T}: Add {G}.\")",
+      "power": "1",
+      "produced_mana": [
+         "G"
+      ],
+      "toughness": "1",
+      "type_line": "Land Creature \u2014 Forest Dryad"
+   }
+}
